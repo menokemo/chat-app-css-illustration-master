@@ -331,11 +331,11 @@ section::after {
     max-width: 80%;
     background-image: linear-gradient(to right, hsl(293, 100%, 63%), hsl(264, 100%, 61%));
     color: var(--Pale-Violet-sub-heading);
-    font-size: 0.7em;
+    font-size: 0.6em;
     font-weight: 500;
     margin-bottom: 0.4em;
-    padding: 0.5em 1em;
-    border-radius: 1.3em 1.3em 1.3em 0.4em;
+    padding: 0.5em 2em;
+    border-radius: 1.2em 1.2em 1.2em 0.4em;
     display: flex;
     align-items: center;
     position: relative;
@@ -345,14 +345,14 @@ section::after {
     content: "\f111";
     font-family: "Font Awesome 5 Free";
     position: absolute;
-    left: 0.9em;
-    font-size: 1em;
+    left: 1em;
+    font-size: 0.8em;
 }
 
 .device .content .mess-g-3 .price span {
     font-weight: 700;
     color: white;
-    margin-left: 1em;
+    margin-left: 0.9em;
 }
 
 .device .content .send-massage {
